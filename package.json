@@ -1,0 +1,8 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kyungpyokim/node-tutorial.git",
+  "author": "kyungpyokim",
+  "license": "MIT"
+}
